@@ -1,0 +1,19 @@
+#h_go_top {
+  width: 40px;
+  height: 40px;
+  line-height: 60px;
+  z-index: 9999999999;
+  background-color: #e9686b;
+  background: url(https://user-gold-cdn.xitu.io/2018/10/22/1669b123cbaa234d?w=100&h=100&f=png&s=6586) no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  position: fixed;
+  transform: rotate(45deg);
+  left: 20px;
+  bottom: 36px;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+}
